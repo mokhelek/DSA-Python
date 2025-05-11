@@ -1,6 +1,13 @@
+"""
+
+Problem : Given an array, return the index of the target element.
+
+Space-Time Complexity
+> O(n) time
+> O(1) space
 
 
-#? SIMPLE IMPLEMENTATION 
+"""
 
 def linear_search(arr, target):
     for i in range(len(arr)):
