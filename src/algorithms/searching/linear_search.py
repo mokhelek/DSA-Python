@@ -1,12 +1,10 @@
 """
+Linear Search Algorithm
 
-Problem : Given an array, return the index of the target element.
+Given an array, returns the index of the target element using linear search.
 
-Space-Time Complexity
-> O(n) time
-> O(1) space
-
-
+Time Complexity: O(n)
+Space Complexity: O(1)
 """
 
 def linear_search(arr, target):

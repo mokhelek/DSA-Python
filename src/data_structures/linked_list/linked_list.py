@@ -1,3 +1,8 @@
+"""
+Singly Linked List Utilities
+
+This module provides a singly linked list implementation with common operations: append, prepend, insert, delete, search, reverse, detect cycle, and find middle.
+"""
 
 #%%
 # todo -> CREATE A SINGLE LINKED LIST

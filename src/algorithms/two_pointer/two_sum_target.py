@@ -1,7 +1,12 @@
-#%%
-#? Problem: Given a sorted array of integers and a target sum, 
-#? return the indices of the two numbers that add up to the target.
+"""
+Two Sum in Sorted Array (Two Pointer Technique)
 
+Given a sorted array of integers and a target sum, returns the indices of the two numbers that add up to the target.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+#%%
 
 def two_sum_sorted(arr, target):
     left = 0
@@ -22,4 +27,4 @@ arr = [1, 2, 3, 4, 6]
 target = 5
 
 two_sum_sorted(arr, target)
-# %%
+

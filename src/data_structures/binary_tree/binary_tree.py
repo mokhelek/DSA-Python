@@ -1,3 +1,10 @@
+"""
+Binary Tree Utilities
+
+This module provides implementations for binary tree traversals, inversion, path sum, and lowest common ancestor.
+
+Includes: pre-order, in-order, post-order, breadth-first traversals, invert tree, has path sum, and lowest common ancestor.
+"""
 from collections import deque
 
 

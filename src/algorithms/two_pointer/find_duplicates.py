@@ -1,16 +1,11 @@
 
 """
-    Removes duplicates from a **sorted** array in-place and returns the number of unique elements.
+Remove Duplicates from Sorted Array
 
-    Parameters:
-        sorted_array (List[int]): A list of integers sorted in non-decreasing order.
+Removes duplicates from a sorted array in-place and returns the number of unique elements.
 
-    Returns:
-        int: The count of unique elements after removing duplicates. The first `n` elements of
-                the array (`n` being the return value) will contain the unique values in order.
-
-    Time Complexity: O(n) - where n is the length of the array.
-    Space Complexity: O(1) - done in-place, no extra memory used.
+Time Complexity: O(n)
+Space Complexity: O(1)
 """
 
 def remove_duplicates(sorted_array):

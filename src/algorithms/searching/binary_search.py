@@ -1,12 +1,10 @@
 """
+Binary Search Algorithm
 
-Problem : Given a sorted array, return the index of the target element.
+Given a sorted array, returns the index of the target element using binary search.
 
-Space-Time Complexity
-> O(log n) time
-> O(1) space
-
-
+Time Complexity: O(log n)
+Space Complexity: O(1)
 """
 
 

@@ -1,3 +1,11 @@
+"""
+First Unique Character in a String
+
+Finds the index of the first non-repeating character in a string.
+
+Time Complexity: O(n)
+Space Complexity: O(1) (assuming fixed alphabet)
+"""
 
 
 #%% 

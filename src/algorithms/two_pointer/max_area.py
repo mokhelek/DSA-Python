@@ -1,3 +1,11 @@
+"""
+Container With Most Water (Two Pointer Technique)
+
+Finds the maximum area of water that can be contained by two lines in an array.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
 
 #%%
 

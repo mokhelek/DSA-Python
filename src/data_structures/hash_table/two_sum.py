@@ -1,3 +1,11 @@
+"""
+Two Sum Using Hash Table
+
+Given a list of numbers and a target, returns the indices of the two numbers that sum up to the target.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
 
 #%%
 

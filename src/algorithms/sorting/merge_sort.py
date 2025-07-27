@@ -1,18 +1,10 @@
 """
-PROBLEM: Given an unsorted array of int values, sort the array(in-place)
+Merge Sort Algorithm
 
+Given an unsorted array of integers, sorts the array in-place using merge sort.
 
-SPACE-TIME COMPLEXITY
-> O(n log n) Time
-> O(n) space 
-
-
-APPROACH:
-> Divide:  Divide the array recursively into two halves until it can no more be divided. 
-> Conquer:  Each sub-array is sorted individually using the merge sort algorithm. 
-> Merge:  The sorted sub-arrays are merged back together in sorted order. 
-          The process continues until all elements are merged. 
-
+Time Complexity: O(n log n)
+Space Complexity: O(n)
 """
 
 def merge_sort(arr):
