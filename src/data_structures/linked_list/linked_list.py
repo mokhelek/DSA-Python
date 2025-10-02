@@ -111,7 +111,7 @@ class LinkedList:
         current = self.head # starting point for the traversal
         
         while current is not None:
-            if current.value  == value:
+            if current.value == value:
                 return True 
             current = current.next 
             
